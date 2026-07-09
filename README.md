@@ -31,5 +31,5 @@ The data was ingested from a local SQLite database (`customer_churn.db`) consist
 1. Clone the repository to your local machine.
 2. Ensure you have the required libraries installed: `pip install pandas numpy matplotlib seaborn sqlite3`.
 3. Ensure the `customer_churn.db` file is in the same directory as the notebook.
-4. Open `CUSTOMERCHRUN.ipynb` in Jupyter Notebook or VS Code and run all cells.
+4. Open `Customer Churn Analysis project.ipynb` in Jupyter Notebook or VS Code and run all cells.
 5. 
